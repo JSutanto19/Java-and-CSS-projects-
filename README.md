@@ -1,1 +1,1 @@
-These are my best Java projects 
+These are my Java projects 
